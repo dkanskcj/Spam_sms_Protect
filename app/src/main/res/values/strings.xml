@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">스미싱 문자 차단기</string>
+    <string name="sms">SMS 내용</string>
+    <string name="sms2">SMS 발신 번호</string>
+</resources>
